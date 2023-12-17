@@ -62,3 +62,12 @@ The server will start on port 5000 by default.
 - Response: Returns a JSON that includes the provided parameter.
 
 Example: Access **http://localhost:5000/api/example/123** to see the response with the parameter "123".
+
+## Running the tests
+
+To run the tests, the mock server must be running. Run using the follow command:
+```bash
+python test_mock_server.py
+```
+
+
