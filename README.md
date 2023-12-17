@@ -23,7 +23,6 @@ python mock_server.py
 The server will start on port 5000 by default.
 
 ## Available Routes
-
 ### Example without Parameters
 - Route: **/api/example**
 - Method: **GET**
