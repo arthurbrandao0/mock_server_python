@@ -7,7 +7,7 @@ This project provides a simple example of creating a mock server in Python using
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/mock-server-flask.git
+    git clone https://github.com/arthurbrandao0/mock_server_python.git
     ```
 
 2. **Navigate to the project directory:**
