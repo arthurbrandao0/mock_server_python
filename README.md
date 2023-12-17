@@ -4,18 +4,46 @@ This project provides a simple example of creating a mock server in Python using
 
 ## Installation
 
-Make sure you have Python and pip installed. Then, install the dependencies using the following command:
+1. **Clone the repository:**
 
-```bash
-pip install flask
-```
+    ```bash
+    git clone https://github.com/your-username/mock-server-flask.git
+    ```
 
-## Usage
-Clone the repository:
-```bash
-git clone https://github.com/your-username/mock-server-flask.git
-cd mock-server-flask
-```
+2. **Navigate to the project directory:**
+
+    ```bash
+    cd mock-server-flask
+    ```
+
+3. **Create a virtual environment (recommended):**
+
+    ```bash
+    python -m venv venv
+    ```
+
+4. **Activate the virtual environment:**
+
+    - On Windows:
+
+        ```bash
+        venv\Scripts\activate
+        ```
+
+    - On Linux/macOS:
+
+        ```bash
+        source venv/bin/activate
+        ```
+
+5. **Install dependencies:**
+
+    ```bash
+    pip install -r requirements.txt
+   ```
+   
+## Running the mock server
+
 1. Run the mock server:
 ```bash
 python mock_server.py
